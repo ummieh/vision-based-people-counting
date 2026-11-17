@@ -221,3 +221,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Computer Vision project files
+*.pt
+*.mp4
+*.avi
+*.mov
+
+# Local camera recordings
+recordings/
