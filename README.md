@@ -1,5 +1,3 @@
-# vision-based-people-counting
-Real-time people counting and entry/exit monitoring using YOLOv8, OpenCV and object tracking.
 # Vision-Based People Counting System
 
 A real-time computer vision system for detecting, tracking and counting people using YOLOv8 and OpenCV.
